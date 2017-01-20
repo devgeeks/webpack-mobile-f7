@@ -66,7 +66,7 @@ module.exports = {
           "value": "standard",
           "short": "Standard"
         }
-        /*,
+        ,
         {
           "name": "AirBNB (https://github.com/airbnb/javascript)",
           "value": "airbnb",
@@ -76,7 +76,7 @@ module.exports = {
           "name": "none (configure it yourself)",
           "value": "none",
           "short": "none"
-        }*/
+        }
       ]
     },
     "unit": {
